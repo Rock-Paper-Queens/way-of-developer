@@ -1,6 +1,6 @@
 [submodule "way-of-developer-client"]
-	path = way-of-developer-client
+	path = Client
 	url = git@github.com:Rock-Paper-Queens/way-of-developer-client.git
 [submodule "way-of-developer-server"]
-	path = way-of-developer-server
+	path = Server
 	url = git@github.com:Rock-Paper-Queens/way-of-developer-server.git
